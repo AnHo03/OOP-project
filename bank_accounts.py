@@ -1,3 +1,5 @@
+# script module
+
 class BalanceException(Exception):
     pass
 
